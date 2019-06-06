@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\usingBolck\usingBolck\bin\Debug\usingBolck.exe
+C:\Users\pmfrp\RiderProjects\usingBolck\usingBolck\bin\Debug\usingBolck.pdb
+C:\Users\pmfrp\RiderProjects\usingBolck\usingBolck\obj\Debug\usingBolck.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\usingBolck\usingBolck\obj\Debug\usingBolck.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\usingBolck\usingBolck\obj\Debug\usingBolck.exe
+C:\Users\pmfrp\RiderProjects\usingBolck\usingBolck\obj\Debug\usingBolck.pdb

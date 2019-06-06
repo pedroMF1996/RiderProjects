@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\Interface2\Interface2\bin\Debug\Interface2.exe
+C:\Users\pmfrp\RiderProjects\Interface2\Interface2\bin\Debug\Interface2.pdb
+C:\Users\pmfrp\RiderProjects\Interface2\Interface2\obj\Debug\Interface2.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\Interface2\Interface2\obj\Debug\Interface2.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\Interface2\Interface2\obj\Debug\Interface2.exe
+C:\Users\pmfrp\RiderProjects\Interface2\Interface2\obj\Debug\Interface2.pdb

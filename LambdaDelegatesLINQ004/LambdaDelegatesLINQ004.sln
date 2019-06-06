@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaDelegatesLINQ004", "LambdaDelegatesLINQ004\LambdaDelegatesLINQ004.csproj", "{443742ED-D8D2-45BE-B2F9-5F36816E3491}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{443742ED-D8D2-45BE-B2F9-5F36816E3491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443742ED-D8D2-45BE-B2F9-5F36816E3491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443742ED-D8D2-45BE-B2F9-5F36816E3491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443742ED-D8D2-45BE-B2F9-5F36816E3491}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

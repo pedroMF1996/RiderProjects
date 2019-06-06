@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\StreamWriter\StreamWriter\bin\Debug\StreamWriter.exe
+C:\Users\pmfrp\RiderProjects\StreamWriter\StreamWriter\bin\Debug\StreamWriter.pdb
+C:\Users\pmfrp\RiderProjects\StreamWriter\StreamWriter\obj\Debug\StreamWriter.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\StreamWriter\StreamWriter\obj\Debug\StreamWriter.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\StreamWriter\StreamWriter\obj\Debug\StreamWriter.exe
+C:\Users\pmfrp\RiderProjects\StreamWriter\StreamWriter\obj\Debug\StreamWriter.pdb

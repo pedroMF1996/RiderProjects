@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\Prova1POO\Prova1POO\bin\Debug\Prova1POO.exe
+C:\Users\pmfrp\RiderProjects\Prova1POO\Prova1POO\bin\Debug\Prova1POO.pdb
+C:\Users\pmfrp\RiderProjects\Prova1POO\Prova1POO\obj\Debug\Prova1POO.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\Prova1POO\Prova1POO\obj\Debug\Prova1POO.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\Prova1POO\Prova1POO\obj\Debug\Prova1POO.exe
+C:\Users\pmfrp\RiderProjects\Prova1POO\Prova1POO\obj\Debug\Prova1POO.pdb

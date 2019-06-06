@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\Solution2\_03_ExtensionMethods\bin\Debug\_03_ExtensionMethods.exe
+C:\Users\pmfrp\RiderProjects\Solution2\_03_ExtensionMethods\bin\Debug\_03_ExtensionMethods.pdb
+C:\Users\pmfrp\RiderProjects\Solution2\_03_ExtensionMethods\obj\Debug\_03_ExtensionMethods.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\Solution2\_03_ExtensionMethods\obj\Debug\_03_ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\Solution2\_03_ExtensionMethods\obj\Debug\_03_ExtensionMethods.exe
+C:\Users\pmfrp\RiderProjects\Solution2\_03_ExtensionMethods\obj\Debug\_03_ExtensionMethods.pdb

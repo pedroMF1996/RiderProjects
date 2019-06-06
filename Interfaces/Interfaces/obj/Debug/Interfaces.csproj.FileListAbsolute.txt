@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+C:\Users\pmfrp\RiderProjects\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\pmfrp\RiderProjects\Interfaces\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+C:\Users\pmfrp\RiderProjects\Interfaces\Interfaces\obj\Debug\Interfaces.pdb

@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\Serializar_Deserializar\_00_Biblioteca\bin\Debug\_00_Biblioteca.dll
+C:\Users\pmfrp\RiderProjects\Serializar_Deserializar\_00_Biblioteca\bin\Debug\_00_Biblioteca.pdb
+C:\Users\pmfrp\RiderProjects\Serializar_Deserializar\_00_Biblioteca\obj\Debug\_00_Biblioteca.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\Serializar_Deserializar\_00_Biblioteca\obj\Debug\_00_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\Serializar_Deserializar\_00_Biblioteca\obj\Debug\_00_Biblioteca.dll
+C:\Users\pmfrp\RiderProjects\Serializar_Deserializar\_00_Biblioteca\obj\Debug\_00_Biblioteca.pdb

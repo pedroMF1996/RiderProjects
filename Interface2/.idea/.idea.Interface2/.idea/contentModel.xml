@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\pmfrp\.Rider2019.1\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\pmfrp\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\pmfrp\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_Interface2.506026016.00" t="ExcludeRecursive" />
+    <e p="C:\Users\pmfrp\RiderProjects\Interface2" t="IncludeFlat">
+      <e p="Interface2" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Entities" t="Include">
+          <e p="CarRental.cs" t="Include" />
+          <e p="Invoice.cs" t="Include" />
+          <e p="Vehicle.cs" t="Include" />
+        </e>
+        <e p="Interface2.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Servicos" t="Include">
+          <e p="BrasilTaxService.cs" t="Include" />
+          <e p="ITaxService.cs" t="Include" />
+          <e p="RentalService.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Interface2.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

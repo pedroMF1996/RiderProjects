@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\LambdaDelegatesLINQ006\LambdaDelegatesLINQ006\bin\Debug\LambdaDelegatesLINQ006.exe
+C:\Users\pmfrp\RiderProjects\LambdaDelegatesLINQ006\LambdaDelegatesLINQ006\bin\Debug\LambdaDelegatesLINQ006.pdb
+C:\Users\pmfrp\RiderProjects\LambdaDelegatesLINQ006\LambdaDelegatesLINQ006\obj\Debug\LambdaDelegatesLINQ006.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\LambdaDelegatesLINQ006\LambdaDelegatesLINQ006\obj\Debug\LambdaDelegatesLINQ006.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\LambdaDelegatesLINQ006\LambdaDelegatesLINQ006\obj\Debug\LambdaDelegatesLINQ006.exe
+C:\Users\pmfrp\RiderProjects\LambdaDelegatesLINQ006\LambdaDelegatesLINQ006\obj\Debug\LambdaDelegatesLINQ006.pdb

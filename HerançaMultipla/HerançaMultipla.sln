@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerançaMultipla", "HerançaMultipla\HerançaMultipla.csproj", "{1DC40E1C-92F0-4CE8-917E-E55606673892}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DC40E1C-92F0-4CE8-917E-E55606673892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC40E1C-92F0-4CE8-917E-E55606673892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC40E1C-92F0-4CE8-917E-E55606673892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC40E1C-92F0-4CE8-917E-E55606673892}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

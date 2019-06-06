@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="10c6ed22-278d-45c7-b9c0-d41f76d53c0f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/Controllers/HomeController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/Logs/SalesWebMVC/ex190424.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000008.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000009.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000010.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000011.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000012.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000013.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000014.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000015.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000016.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000017.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000018.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000019.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000020.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000021.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000022.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000023.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000024.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000025.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000026.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000027.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000028.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000029.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000030.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000031.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000032.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000033.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000034.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000035.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000036.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000037.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000038.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000039.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000040.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000041.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000042.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000043.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000044.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000045.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000046.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/fr000047.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/TraceLogFiles/SalesWebMVC/freb.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/config/applicationhost.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/config/aspnet.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/IISExpress/config/redirection.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/Models/ErrorViewModel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/Properties/launchSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/SalesWebMVC.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/Startup.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/Views/Home/About.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/Views/Home/Contact.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/Views/Home/Index.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/Views/Home/Privacy.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/Views/Shared/Error.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/Views/Shared/_CookieConsentPartial.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/Views/Shared/_ValidationScriptsPartial.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/Views/_ViewImports.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/Views/_ViewStart.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/app.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/appsettings.Development.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/appsettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/css/site.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/css/site.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/images/banner1.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/images/banner2.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/images/banner3.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/js/site.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/js/site.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/bootstrap/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/bootstrap/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/bootstrap/dist/js/npm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/jquery-validation-unobtrusive/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/jquery-validation/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/jquery-validation/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/jquery-validation/dist/additional-methods.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/jquery/.bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/jquery/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/jquery/dist/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/jquery/dist/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SalesWebMVC/wwwroot/lib/jquery/dist/jquery.min.map" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SalesWebMVC/Views/Home/Privacy.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <marker date="1556078876962" expanded="true" signature="0:46" ph="@..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SalesWebMVC/Views/Home/Contact.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1556078876957" expanded="true" signature="0:39" ph="@..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SalesWebMVC/Views/Home/About.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+              <folding>
+                <marker date="1556078876918" expanded="true" signature="0:37" ph="@..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SalesWebMVC/Views/Home/About.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SalesWebMVC/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SalesWebMVC/Views/Home/Privacy.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SalesWebMVC/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SalesWebMVC/Views/Home/Contact.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SalesWebMVC/Views/_ViewStart.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SalesWebMVC/Views/_ViewImports.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SalesWebMVC/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/SalesWebMVC/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SalesWebMVC/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.SalesWebMVC/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.SalesWebMVC/.idea/indexLayout.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="377" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SalesWebMVC" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SalesWebMVC" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SalesWebMVC" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SalesWebMVC" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SalesWebMVC" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SalesWebMVC" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SalesWebMVC" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SalesWebMVC" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SalesWebMVC" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="SalesWebMVC" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="SalesWebMVC" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Home" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.SalesWebMVC">
+    <configuration name="SalesWebMVC" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/SalesWebMVC/SalesWebMVC.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="SalesWebMVC" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SalesWebMVC: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/SalesWebMVC/SalesWebMVC.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.1" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="10c6ed22-278d-45c7-b9c0-d41f76d53c0f" name="Default Changelist" comment="" />
+      <created>1556078900412</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556078900412</updated>
+      <workItem from="1556078913356" duration="140000" />
+      <workItem from="1556131262560" duration="1501000" />
+      <workItem from="1556149052243" duration="4993000" />
+      <workItem from="1556244244240" duration="173000" />
+      <workItem from="1556244537810" duration="844000" />
+      <workItem from="1556327666681" duration="121000" />
+      <workItem from="1556328237008" duration="149000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7921000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27279636" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4977307" weight="0.32861635" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924356" visible="true" weight="0.30660376" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" sideWeight="0.49924356" weight="0.32861635" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="REST Client" order="13" />
+      <window_info anchor="bottom" id="TeamCity" order="14" />
+      <window_info anchor="bottom" id="Terminal" order="15" sideWeight="0.49848714" weight="0.32861635" />
+      <window_info anchor="bottom" id="Event Log" order="16" sideWeight="0.50075644" side_tool="true" visible="true" weight="0.3035144" />
+      <window_info anchor="bottom" id="Build" order="17" sideWeight="0.5226929" weight="0.32861635" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/341DFE22-562E-4DB3-8729-B233A8CD1A5F/3d/930d988d/ExceptionDispatchInfo.cs" />
+    <entry file="file://$PROJECT_DIR$/SalesWebMVC/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <marker date="1556078930787" expanded="false" signature="6:255" ph="..." />
+            <marker date="1556078930787" expanded="true" signature="278:605" ph="{...}" />
+            <marker date="1556078930787" expanded="true" signature="305:603" ph="{...}" />
+            <marker date="1556078930787" expanded="true" signature="358:432" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SalesWebMVC/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="37" column="36" lean-forward="true" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+          <folding>
+            <marker date="1556078930687" expanded="false" signature="6:180" ph="..." />
+            <marker date="1556078930687" expanded="true" signature="215:1011" ph="{...}" />
+            <marker date="1556078930687" expanded="true" signature="262:1009" ph="{...}" />
+            <marker date="1556078930687" expanded="true" signature="305:352" ph="{...}" />
+            <marker date="1556078930687" expanded="true" signature="390:510" ph="{...}" />
+            <marker date="1556078930687" expanded="true" signature="550:654" ph="{...}" />
+            <marker date="1556078930687" expanded="true" signature="694:741" ph="{...}" />
+            <marker date="1556078930687" expanded="true" signature="872:1003" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SalesWebMVC/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1556078877100" expanded="true" signature="43:209" ph="{...}" />
+            <marker date="1556078877100" expanded="true" signature="77:207" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SalesWebMVC/Views/_ViewImports.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1556078877092" expanded="false" signature="7:44" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SalesWebMVC/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1556078877086" expanded="true" signature="0:28" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SalesWebMVC/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <folding>
+            <marker date="1556152684985" expanded="false" signature="6:363" ph="..." />
+            <marker date="1556152684985" expanded="true" signature="386:2236" ph="{...}" />
+            <marker date="1556152684985" expanded="true" signature="413:2234" ph="{...}" />
+            <marker date="1556152684985" expanded="true" signature="472:535" ph="{...}" />
+            <marker date="1556152684985" expanded="true" signature="758:1458" ph="{...}" />
+            <marker date="1556152684985" expanded="true" signature="844:1108" ph="{...}" />
+            <marker date="1556152684985" expanded="true" signature="1214:1356" ph="{...}" />
+            <marker date="1556152684985" expanded="true" signature="1646:2228" ph="{...}" />
+            <marker date="1556152684985" expanded="true" signature="1693:1770" ph="{...}" />
+            <marker date="1556152684985" expanded="true" signature="1787:1902" ph="{...}" />
+            <marker date="1556152684985" expanded="true" signature="2058:2216" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SalesWebMVC/Views/Home/Contact.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1556078876957" expanded="true" signature="0:39" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SalesWebMVC/Views/Home/About.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="29" lean-forward="true" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <marker date="1556078876918" expanded="true" signature="0:37" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SalesWebMVC/Views/Home/Privacy.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <marker date="1556078876962" expanded="true" signature="0:46" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

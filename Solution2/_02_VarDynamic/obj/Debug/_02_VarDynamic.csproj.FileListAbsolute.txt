@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\Solution2\_02_VarDynamic\bin\Debug\_02_VarDynamic.exe
+C:\Users\pmfrp\RiderProjects\Solution2\_02_VarDynamic\bin\Debug\_02_VarDynamic.pdb
+C:\Users\pmfrp\RiderProjects\Solution2\_02_VarDynamic\obj\Debug\_02_VarDynamic.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\Solution2\_02_VarDynamic\obj\Debug\_02_VarDynamic.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\Solution2\_02_VarDynamic\obj\Debug\_02_VarDynamic.exe
+C:\Users\pmfrp\RiderProjects\Solution2\_02_VarDynamic\obj\Debug\_02_VarDynamic.pdb

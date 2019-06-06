@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\LambdaDelegatesLINKQ005\LambdaDelegatesLINKQ005\bin\Debug\LambdaDelegatesLINKQ005.exe
+C:\Users\pmfrp\RiderProjects\LambdaDelegatesLINKQ005\LambdaDelegatesLINKQ005\bin\Debug\LambdaDelegatesLINKQ005.pdb
+C:\Users\pmfrp\RiderProjects\LambdaDelegatesLINKQ005\LambdaDelegatesLINKQ005\obj\Debug\LambdaDelegatesLINKQ005.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\LambdaDelegatesLINKQ005\LambdaDelegatesLINKQ005\obj\Debug\LambdaDelegatesLINKQ005.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\LambdaDelegatesLINKQ005\LambdaDelegatesLINKQ005\obj\Debug\LambdaDelegatesLINKQ005.exe
+C:\Users\pmfrp\RiderProjects\LambdaDelegatesLINKQ005\LambdaDelegatesLINKQ005\obj\Debug\LambdaDelegatesLINKQ005.pdb

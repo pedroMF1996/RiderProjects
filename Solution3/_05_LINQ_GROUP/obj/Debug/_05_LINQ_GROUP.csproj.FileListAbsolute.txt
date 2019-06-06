@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\Solution3\_05_LINQ_GROUP\bin\Debug\_05_LINQ_GROUP.exe
+C:\Users\pmfrp\RiderProjects\Solution3\_05_LINQ_GROUP\bin\Debug\_05_LINQ_GROUP.pdb
+C:\Users\pmfrp\RiderProjects\Solution3\_05_LINQ_GROUP\obj\Debug\_05_LINQ_GROUP.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\Solution3\_05_LINQ_GROUP\obj\Debug\_05_LINQ_GROUP.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\Solution3\_05_LINQ_GROUP\obj\Debug\_05_LINQ_GROUP.exe
+C:\Users\pmfrp\RiderProjects\Solution3\_05_LINQ_GROUP\obj\Debug\_05_LINQ_GROUP.pdb

@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\TopicosEspeciais\TopicosEspeciais\bin\Debug\TopicosEspeciais.exe
+C:\Users\pmfrp\RiderProjects\TopicosEspeciais\TopicosEspeciais\bin\Debug\TopicosEspeciais.pdb
+C:\Users\pmfrp\RiderProjects\TopicosEspeciais\TopicosEspeciais\obj\Debug\TopicosEspeciais.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\TopicosEspeciais\TopicosEspeciais\obj\Debug\TopicosEspeciais.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\TopicosEspeciais\TopicosEspeciais\obj\Debug\TopicosEspeciais.exe
+C:\Users\pmfrp\RiderProjects\TopicosEspeciais\TopicosEspeciais\obj\Debug\TopicosEspeciais.pdb

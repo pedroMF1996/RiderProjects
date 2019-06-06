@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\FileFileInfoIOException\FileFileInfoIOException\bin\Debug\FileFileInfoIOException.exe
+C:\Users\pmfrp\RiderProjects\FileFileInfoIOException\FileFileInfoIOException\bin\Debug\FileFileInfoIOException.pdb
+C:\Users\pmfrp\RiderProjects\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\FileFileInfoIOException.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\FileFileInfoIOException.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\FileFileInfoIOException.exe
+C:\Users\pmfrp\RiderProjects\FileFileInfoIOException\FileFileInfoIOException\obj\Debug\FileFileInfoIOException.pdb

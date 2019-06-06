@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\IComparable\IComparable\bin\Debug\IComparable.exe
+C:\Users\pmfrp\RiderProjects\IComparable\IComparable\bin\Debug\IComparable.pdb
+C:\Users\pmfrp\RiderProjects\IComparable\IComparable\obj\Debug\IComparable.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\IComparable\IComparable\obj\Debug\IComparable.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\IComparable\IComparable\obj\Debug\IComparable.exe
+C:\Users\pmfrp\RiderProjects\IComparable\IComparable\obj\Debug\IComparable.pdb

@@ -1,0 +1,9 @@
+C:\Users\pmfrp\RiderProjects\Serializar_Deserializar\_03_SerializarJSON\bin\Debug\_03_SerializarJSON.exe
+C:\Users\pmfrp\RiderProjects\Serializar_Deserializar\_03_SerializarJSON\bin\Debug\_03_SerializarJSON.pdb
+C:\Users\pmfrp\RiderProjects\Serializar_Deserializar\_03_SerializarJSON\bin\Debug\_00_Biblioteca.dll
+C:\Users\pmfrp\RiderProjects\Serializar_Deserializar\_03_SerializarJSON\bin\Debug\_00_Biblioteca.pdb
+C:\Users\pmfrp\RiderProjects\Serializar_Deserializar\_03_SerializarJSON\obj\Debug\_03_SerializarJSON.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\Serializar_Deserializar\_03_SerializarJSON\obj\Debug\_03_SerializarJSON.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\Serializar_Deserializar\_03_SerializarJSON\obj\Debug\_03_SerializarJSON.csproj.CopyComplete
+C:\Users\pmfrp\RiderProjects\Serializar_Deserializar\_03_SerializarJSON\obj\Debug\_03_SerializarJSON.exe
+C:\Users\pmfrp\RiderProjects\Serializar_Deserializar\_03_SerializarJSON\obj\Debug\_03_SerializarJSON.pdb

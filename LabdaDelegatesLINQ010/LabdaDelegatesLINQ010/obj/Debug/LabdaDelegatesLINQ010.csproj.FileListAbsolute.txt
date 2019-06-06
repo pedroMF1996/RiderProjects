@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\LabdaDelegatesLINQ010\LabdaDelegatesLINQ010\bin\Debug\LabdaDelegatesLINQ010.exe
+C:\Users\pmfrp\RiderProjects\LabdaDelegatesLINQ010\LabdaDelegatesLINQ010\bin\Debug\LabdaDelegatesLINQ010.pdb
+C:\Users\pmfrp\RiderProjects\LabdaDelegatesLINQ010\LabdaDelegatesLINQ010\obj\Debug\LabdaDelegatesLINQ010.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\LabdaDelegatesLINQ010\LabdaDelegatesLINQ010\obj\Debug\LabdaDelegatesLINQ010.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\LabdaDelegatesLINQ010\LabdaDelegatesLINQ010\obj\Debug\LabdaDelegatesLINQ010.exe
+C:\Users\pmfrp\RiderProjects\LabdaDelegatesLINQ010\LabdaDelegatesLINQ010\obj\Debug\LabdaDelegatesLINQ010.pdb

@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\Lista1Ex4\Lista1Ex4\bin\Debug\Lista1Ex4.exe
+C:\Users\pmfrp\RiderProjects\Lista1Ex4\Lista1Ex4\bin\Debug\Lista1Ex4.pdb
+C:\Users\pmfrp\RiderProjects\Lista1Ex4\Lista1Ex4\obj\Debug\Lista1Ex4.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\Lista1Ex4\Lista1Ex4\obj\Debug\Lista1Ex4.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\Lista1Ex4\Lista1Ex4\obj\Debug\Lista1Ex4.exe
+C:\Users\pmfrp\RiderProjects\Lista1Ex4\Lista1Ex4\obj\Debug\Lista1Ex4.pdb

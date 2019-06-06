@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\Udemy001\Udemy001\bin\Debug\Udemy001.exe
+C:\Users\pmfrp\RiderProjects\Udemy001\Udemy001\bin\Debug\Udemy001.pdb
+C:\Users\pmfrp\RiderProjects\Udemy001\Udemy001\obj\Debug\Udemy001.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\Udemy001\Udemy001\obj\Debug\Udemy001.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\Udemy001\Udemy001\obj\Debug\Udemy001.exe
+C:\Users\pmfrp\RiderProjects\Udemy001\Udemy001\obj\Debug\Udemy001.pdb

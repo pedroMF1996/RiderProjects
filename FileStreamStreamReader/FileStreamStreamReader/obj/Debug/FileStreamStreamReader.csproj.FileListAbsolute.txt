@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\FileStreamStreamReader\FileStreamStreamReader\bin\Debug\FileStreamStreamReader.exe
+C:\Users\pmfrp\RiderProjects\FileStreamStreamReader\FileStreamStreamReader\bin\Debug\FileStreamStreamReader.pdb
+C:\Users\pmfrp\RiderProjects\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\FileStreamStreamReader.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\FileStreamStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\FileStreamStreamReader.exe
+C:\Users\pmfrp\RiderProjects\FileStreamStreamReader\FileStreamStreamReader\obj\Debug\FileStreamStreamReader.pdb

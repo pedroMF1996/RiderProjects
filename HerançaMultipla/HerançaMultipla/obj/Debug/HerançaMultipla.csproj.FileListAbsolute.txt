@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\HerançaMultipla\HerançaMultipla\bin\Debug\HerançaMultipla.exe
+C:\Users\pmfrp\RiderProjects\HerançaMultipla\HerançaMultipla\bin\Debug\HerançaMultipla.pdb
+C:\Users\pmfrp\RiderProjects\HerançaMultipla\HerançaMultipla\obj\Debug\HerançaMultipla.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\HerançaMultipla\HerançaMultipla\obj\Debug\HerançaMultipla.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\HerançaMultipla\HerançaMultipla\obj\Debug\HerançaMultipla.exe
+C:\Users\pmfrp\RiderProjects\HerançaMultipla\HerançaMultipla\obj\Debug\HerançaMultipla.pdb

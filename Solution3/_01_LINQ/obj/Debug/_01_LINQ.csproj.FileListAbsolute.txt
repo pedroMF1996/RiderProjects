@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\Solution3\_01_LINQ\bin\Debug\_01_LINQ.exe
+C:\Users\pmfrp\RiderProjects\Solution3\_01_LINQ\bin\Debug\_01_LINQ.pdb
+C:\Users\pmfrp\RiderProjects\Solution3\_01_LINQ\obj\Debug\_01_LINQ.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\Solution3\_01_LINQ\obj\Debug\_01_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\Solution3\_01_LINQ\obj\Debug\_01_LINQ.exe
+C:\Users\pmfrp\RiderProjects\Solution3\_01_LINQ\obj\Debug\_01_LINQ.pdb

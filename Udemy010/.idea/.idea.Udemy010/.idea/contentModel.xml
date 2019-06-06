@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\pmfrp\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\pmfrp\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_Udemy010.-289910304.00" t="ExcludeRecursive" />
+    <e p="C:\Users\pmfrp\RiderProjects\Udemy010" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Udemy010" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Classes1" t="Include">
+          <e p="Account.cs" t="Include" />
+          <e p="BusinessAcount.cs" t="Include" />
+          <e p="SavingsAccount.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Udemy010.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="Udemy010.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+C:\Users\pmfrp\RiderProjects\GenericsAula\_01_Generics\bin\Debug\_01_Generics.exe
+C:\Users\pmfrp\RiderProjects\GenericsAula\_01_Generics\bin\Debug\_01_Generics.pdb
+C:\Users\pmfrp\RiderProjects\GenericsAula\_01_Generics\obj\Debug\_01_Generics.csprojAssemblyReference.cache
+C:\Users\pmfrp\RiderProjects\GenericsAula\_01_Generics\obj\Debug\_01_Generics.csproj.CoreCompileInputs.cache
+C:\Users\pmfrp\RiderProjects\GenericsAula\_01_Generics\obj\Debug\_01_Generics.exe
+C:\Users\pmfrp\RiderProjects\GenericsAula\_01_Generics\obj\Debug\_01_Generics.pdb
